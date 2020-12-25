@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyToast</string>
+    <string name="back">Back</string>
+    <string name="title">This is lib activity</string>
 </resources>

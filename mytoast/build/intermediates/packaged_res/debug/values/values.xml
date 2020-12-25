@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MyToast</string>
+    <string name="back">Back</string>
+    <string name="title">This is lib activity</string>
 </resources>
