@@ -3,7 +3,11 @@
     package="com.example.mytoast">
 
     <application>
-        <activity android:name=".ToastActivity"></activity>
+        <activity android:name=".ToastActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+
+
+        </activity>
     </application>
 
 </manifest>
